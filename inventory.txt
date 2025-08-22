@@ -1,0 +1,24 @@
+101
+Laptop
+Electronics
+1200.5 6
+102
+Mouse
+Electronics
+25 50
+201
+Chair
+Furniture
+150 4
+122
+EGGS
+CULTERY
+200 12
+203
+CPU
+ELECTRONICS
+15 19
+204
+IPAD
+ELECTRONICS
+200 20
